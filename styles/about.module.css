@@ -49,7 +49,7 @@
 }
 
  .bgimage {
-  background: url("/animals_bg.jpeg") no-repeat center center fixed;
+  background: url("/help_bg.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -101,8 +101,8 @@
 
 .aboutcard div img{
   width: 120px;
-  height: 90px;
-  border-radius: 50%;
+  height: 120px;
+  
 }
 
 .we{

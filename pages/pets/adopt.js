@@ -113,7 +113,7 @@ const AdoptPage = () => {
             </div>
               <div className={styles.buttons}>
                 <button  className={styles.adopt}>
-                <a href="/pets">Adopt</a>
+                <a>Adopt</a>
                 </button>
               </div>
           </form>

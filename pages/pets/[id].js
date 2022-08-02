@@ -43,7 +43,7 @@ const PetPage = ({ pet }) => {
         />
         
         <div><b>Name : </b>{pet.name}</div>
-        <div><b>ID : </b>{pet.id}</div>
+        <div><b>Id : </b>{pet.id}</div>
         <div><b>Type : </b>{pet.type}</div>
         <div><b>Breed : </b>{pet.breed}</div>
         <div><b>Age : </b>{pet.age}</div>

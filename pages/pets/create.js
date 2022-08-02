@@ -69,7 +69,7 @@ export default function CreatePet() {
                 </div>
                 <div className={styles.buttons}>
                     <button className={styles.adopt}>
-                        <a href="/pets">Add</a>
+                        <a >Add</a>
                     </button>
                 </div>
             </form>
